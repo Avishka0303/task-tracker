@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # task-tracker
 task tracker using react js (for practice purpose)
->>>>>>> 4667ec1547d0d658eac778ba1d1635ffb44b8466
+
